@@ -1,0 +1,88 @@
+Uri: https://bsc-chain.com/
+File Name: C:\Downloaded Web Sites\bsc-chain.com\index.htm
+Content Type: text/html
+
+Uri: https://bsc-chain.com/assets/967b2585-5da6-4cf3-b8f4-382531dd678b.svg
+File Name: C:\Downloaded Web Sites\bsc-chain.com\assets\967b2585-5da6-4cf3-b8f4-382531dd678b.svg
+Content Type: image/svg+xml
+
+Uri: https://bsc-chain.com/assets/986d129e-e9ec-4da4-9ce1-fa7600fa0aef.svg
+File Name: C:\Downloaded Web Sites\bsc-chain.com\assets\986d129e-e9ec-4da4-9ce1-fa7600fa0aef.svg
+Content Type: image/svg+xml
+
+Uri: https://bsc-chain.com/assets/a2bfd11f-8321-4320-a90b-2d4ef3c463e9.svg
+File Name: C:\Downloaded Web Sites\bsc-chain.com\assets\a2bfd11f-8321-4320-a90b-2d4ef3c463e9.svg
+Content Type: image/svg+xml
+
+Uri: https://bsc-chain.com/assets/logot.svg
+File Name: C:\Downloaded Web Sites\bsc-chain.com\assets\logot.svg
+Content Type: image/svg+xml
+
+Uri: https://bsc-chain.com/assets/pngwing.com.png
+File Name: C:\Downloaded Web Sites\bsc-chain.com\assets\pngwing.com.png
+Content Type: image/png
+
+Uri: https://bsc-chain.com/assets/styles.css?=dwdwwdwdwdwdwdqwdwwwwwwwwwww
+File Name: C:\Downloaded Web Sites\bsc-chain.com\assets\styles.css
+Content Type: text/css
+
+Uri: https://bsc-chain.com/index.js
+File Name: C:\Downloaded Web Sites\bsc-chain.com\index.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\bsc-chain.com\npm\bootstrap@5.3.0\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\bsc-chain.com\npm\bootstrap@5.3.0\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/crypto-js@4.1.1/crypto-js.min.js
+File Name: C:\Downloaded Web Sites\bsc-chain.com\npm\crypto-js@4.1.1\crypto-js.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/merkletreejs@latest/merkletree.js
+File Name: C:\Downloaded Web Sites\bsc-chain.com\npm\merkletreejs@latest\merkletree.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11
+File Name: C:\Downloaded Web Sites\bsc-chain.com\npm\sweetalert2@11
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/ethers/5.6.9/ethers.umd.min.js
+File Name: C:\Downloaded Web Sites\bsc-chain.com\ajax\libs\ethers\5.6.9\ethers.umd.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/@walletconnect/web3-provider@1.8.0/dist/umd/index.min.js
+File Name: C:\Downloaded Web Sites\bsc-chain.com\@walletconnect\web3-provider@1.8.0\dist\umd\index.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\bsc-chain.com\boxicons@2.1.4\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\bsc-chain.com\boxicons@2.1.4\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\bsc-chain.com\boxicons@2.1.4\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\bsc-chain.com\boxicons@2.1.4\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\bsc-chain.com\boxicons@2.1.4\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\bsc-chain.com\boxicons@2.1.4\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://unpkg.com/web3@1.9.0/dist/web3.min.js
+File Name: C:\Downloaded Web Sites\bsc-chain.com\web3@1.9.0\dist\web3.min.js
+Content Type: application/javascript
+
